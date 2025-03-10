@@ -54,7 +54,7 @@ class TextEditor {
     }
 }
 
-public class StrategyPatternDemo {
+public class Strategy {
     public static void main(String[] args) {
         TextEditor textEditor = new TextEditor();
 

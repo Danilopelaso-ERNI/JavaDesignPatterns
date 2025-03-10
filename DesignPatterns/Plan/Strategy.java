@@ -55,7 +55,7 @@ class ImageStorage {
     }
 }
 
-public class StrategyPatternDemo {
+public class Strategy {
     public static void main(String[] args) {
         ImageStorage imageStorage = new ImageStorage();
 
