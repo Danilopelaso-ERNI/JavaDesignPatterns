@@ -62,6 +62,8 @@ class BrushTool implements Tool {
     }
 }
 
+
+
 public class State {
     public static void main(String[] args) {
         var canvas = new Canvas();

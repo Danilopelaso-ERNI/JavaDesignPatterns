@@ -1,8 +1,5 @@
 package DesignPatterns.Plan;
 
-import java.util.ArrayList;
-import java.util.List;
-
 abstract class DialogBox {
     public abstract void changed(UIControl control);
 }

@@ -76,7 +76,7 @@ class SupportTicket {
     }
 }
 
-// Main class to demonstrate the Chain of Responsibility pattern
+
 public class ChainOfResponsibility {
     public static void main(String[] args) {
         SupportHandler levelThreeSupport = new LevelThreeSupport(null);
