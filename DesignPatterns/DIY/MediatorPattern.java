@@ -7,7 +7,6 @@ abstract class Mediator {
     public abstract void notify(User user, String message);
 }
 
-// Abstract Colleague
 abstract class User {
     protected Mediator mediator;
     protected String name;
