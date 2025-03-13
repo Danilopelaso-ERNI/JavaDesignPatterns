@@ -1,3 +1,5 @@
+package DesignPatterns.DIY;
+
 interface Stream {
     void write(String data);
 }

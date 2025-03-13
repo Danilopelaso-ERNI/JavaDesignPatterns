@@ -1,3 +1,5 @@
+package DesignPatterns.Plan;
+
 interface Stream {
     void write(String data);
 }

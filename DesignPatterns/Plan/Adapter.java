@@ -24,7 +24,7 @@ class ImageView {
     }
 
     public void apply(Filter filter) {
-        filter.apply(image);
+        filter.apply(image);    
     }
 }
 
